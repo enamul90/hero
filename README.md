@@ -1,1 +1,1 @@
-https://enamul90.github.io/hero/
+https://enamul90.github.io/responsive-Hero/
